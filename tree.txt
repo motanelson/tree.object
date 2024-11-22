@@ -1,0 +1,13 @@
+root
+ dir1
+  diraaa
+  dirbbb
+  dirccc
+ dir2
+  diraaa
+  dirbbb
+  dirccc
+ dir3
+  diraaa
+  dirbbb
+  dirccc
